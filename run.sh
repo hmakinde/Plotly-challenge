@@ -1,0 +1,1 @@
+FLASK_APP=bacteria/app.py flask run
